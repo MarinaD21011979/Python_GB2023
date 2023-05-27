@@ -8,5 +8,5 @@
 # print('введите трехзначное число')
 
 a = '123'
-sum = int(a[0] + a[1] + a[2])
-print(sum)                           #int(a[0] + a[1] + a[2]))
+
+print(int(a[0]) + int(a[1]) + int(a[2]))                           #int(a[0] + a[1] + a[2]))
