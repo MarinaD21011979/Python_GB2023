@@ -12,3 +12,5 @@ colors.discard('blue') # checking is there a value
 print(colors)
 colors.clear() #delete all elements
 print(colors) # print empty set
+
+q = set() # to create set
