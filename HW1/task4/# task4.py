@@ -9,3 +9,10 @@
 
 n = 3
 m = 2
+k = 4 
+
+if n * m / 1 == k: 
+    print('yes')
+if n * m / 1 != k:
+    print('no')
+
