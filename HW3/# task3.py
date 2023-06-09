@@ -13,3 +13,14 @@
 
 # ноутбук
     # 12
+
+dictionary = {}
+# dictionary = {}
+dictionary ['A, E, I, O, U, L, N, S, T, R'] = 1
+dictionary ['D, G'] = 2
+dictionary ['B, C, M, P'] = 3
+dictionary ['F, H, V, W, Y'] = 4
+dictionary ['K'] = 5
+dictionary ['J, X'] = 8
+dictionary ['Q, Z'] = 10
+print(dictionary)
