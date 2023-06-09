@@ -9,8 +9,11 @@
     # 1 2 3 4 5
     # 3
     # -> 1
+
 n = int(input())
 list_1 = []
-for i in range (n):
+print(list_1)
+for i in range(n):
     num = int(input())
-    list_1.append(num)
+    list_1.append(i)
+    print(len(list_1))
